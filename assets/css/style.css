@@ -276,11 +276,12 @@ html, body {
 
 .container .row .col-md-6 button {
     display: block;
-    margin-left: 275px;
+    margin-left: 240px;
     background-color: black;
     color: white;
     border: 1px solid white;
     margin-bottom: 10px;
+    width: 150px;
 }
 
 .container .row .col-md-6 btn2 {
